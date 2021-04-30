@@ -6,11 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"aggregation",
 		"data",
-		"averageDisplay",
-		"minDisplay",
-		"maxDisplay",
-		"lastValueDisplay" ],
+		"display",
+		"label" ],
 	"name" : "RVVAggregationDisplayMorph",
 	"pools" : [
 		 ],
