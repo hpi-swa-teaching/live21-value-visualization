@@ -1,0 +1,18 @@
+{
+	"category" : "RuntimeValueVisualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data",
+		"averageDisplay",
+		"minDisplay",
+		"maxDisplay",
+		"lastValueDisplay" ],
+	"name" : "RVVAggregationDisplayMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

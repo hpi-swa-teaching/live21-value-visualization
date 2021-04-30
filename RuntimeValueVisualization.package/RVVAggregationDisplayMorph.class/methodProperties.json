@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"averageDisplay" : "lp 4/28/2021 17:34",
+		"averageDisplay:" : "lp 4/28/2021 18:21",
+		"clearData" : "lp 4/28/2021 18:23",
+		"data" : "lp 4/28/2021 17:24",
+		"data:" : "lp 4/28/2021 18:31",
+		"initialize" : "lp 4/28/2021 18:33",
+		"insert:" : "lp 4/28/2021 18:31",
+		"lastValueDisplay" : "lp 4/28/2021 17:33",
+		"lastValueDisplay:" : "lp 4/28/2021 18:21",
+		"maxDisplay" : "lp 4/28/2021 17:32",
+		"maxDisplay:" : "lp 4/28/2021 18:21",
+		"minDisplay" : "lp 4/28/2021 17:32",
+		"minDisplay:" : "lp 4/28/2021 18:21",
+		"updateAggregations" : "lp 4/28/2021 18:20",
+		"updateAverage" : "lp 4/28/2021 18:34",
+		"updateLastValue" : "lp 4/28/2021 18:26",
+		"updateMaximum" : "lp 4/28/2021 18:39",
+		"updateMinimum" : "lp 4/28/2021 18:39" } }
