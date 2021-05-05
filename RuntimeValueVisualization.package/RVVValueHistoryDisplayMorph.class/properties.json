@@ -1,0 +1,15 @@
+{
+	"category" : "RuntimeValueVisualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data",
+		"lines" ],
+	"name" : "RVVValueHistoryDisplayMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

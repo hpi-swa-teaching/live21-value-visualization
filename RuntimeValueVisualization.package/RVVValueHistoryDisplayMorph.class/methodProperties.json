@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"lineColor" : "lp 5/5/2021 21:26",
+		"lineWidth" : "lp 5/5/2021 21:26",
+		"openExample" : "lp 5/5/2021 21:14" },
+	"instance" : {
+		"constructSegmentFor:with:" : "lp 5/5/2021 22:18",
+		"createSegments" : "lp 5/5/2021 22:19",
+		"data" : "lp 5/5/2021 14:10",
+		"data:" : "lp 5/5/2021 22:20",
+		"getYCoordinateFor:" : "lp 5/5/2021 22:17",
+		"initialize" : "lp 5/5/2021 21:16",
+		"lines" : "lp 5/5/2021 21:16",
+		"lines:" : "lp 5/5/2021 21:16",
+		"newLineFrom:to:" : "lp 5/5/2021 21:28",
+		"segmentHeightMultiplier" : "lp 5/5/2021 21:46",
+		"segmentWidth" : "lp 5/5/2021 21:38" } }
