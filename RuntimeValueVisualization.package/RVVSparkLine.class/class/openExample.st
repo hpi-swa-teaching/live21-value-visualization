@@ -8,4 +8,4 @@ openExample
 	
 	example add: 20.
 	example add: 10.
-	example add: 30.
+	example add: 30
