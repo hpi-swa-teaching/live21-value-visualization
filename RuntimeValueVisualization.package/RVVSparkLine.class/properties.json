@@ -8,7 +8,7 @@
 	"instvars" : [
 		"data",
 		"lines" ],
-	"name" : "RVVValueHistoryDisplayMorph",
+	"name" : "RVVSparkLine",
 	"pools" : [
 		 ],
 	"super" : "Morph",

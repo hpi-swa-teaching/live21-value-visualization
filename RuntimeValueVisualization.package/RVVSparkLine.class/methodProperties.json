@@ -1,15 +1,17 @@
 {
 	"class" : {
-		"lineColor" : "lp 5/5/2021 21:26",
+		"fillColor" : "lp 5/6/2021 11:40",
+		"lineColor" : "lp 5/6/2021 11:40",
 		"lineWidth" : "lp 5/5/2021 21:26",
-		"openExample" : "lp 5/5/2021 21:14" },
+		"openExample" : "lp 5/6/2021 11:43" },
 	"instance" : {
-		"constructSegmentFor:with:" : "lp 5/5/2021 22:18",
-		"createSegments" : "lp 5/5/2021 22:19",
+		"add:" : "lp 5/6/2021 11:43",
+		"createSegmentPoints" : "lp 5/6/2021 11:36",
+		"createSegments" : "lp 5/6/2021 11:38",
 		"data" : "lp 5/5/2021 14:10",
 		"data:" : "lp 5/5/2021 22:20",
 		"getYCoordinateFor:" : "lp 5/5/2021 22:17",
-		"initialize" : "lp 5/5/2021 21:16",
+		"initialize" : "lp 5/6/2021 11:22",
 		"lines" : "lp 5/5/2021 21:16",
 		"lines:" : "lp 5/5/2021 21:16",
 		"newLineFrom:to:" : "lp 5/5/2021 21:28",
