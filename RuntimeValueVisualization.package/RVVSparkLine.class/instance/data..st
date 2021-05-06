@@ -2,4 +2,4 @@ accessing
 data: anOrderedCollection
 
 	data := anOrderedCollection.
-	(self data isEmpty) ifFalse: [self createGraph]
+	(self data isEmpty) ifFalse: [self updateGraph]

@@ -5,15 +5,16 @@
 		"lineWidth" : "lp 5/5/2021 21:26",
 		"openExample" : "lp 5/6/2021 11:56" },
 	"instance" : {
-		"add:" : "lp 5/6/2021 12:09",
-		"createGraph" : "lp 5/6/2021 12:11",
+		"add:" : "lp 5/6/2021 12:13",
+		"createGraph" : "lp 5/6/2021 12:13",
 		"createSegmentPoints" : "lp 5/6/2021 11:36",
 		"data" : "lp 5/5/2021 14:10",
-		"data:" : "lp 5/6/2021 12:09",
+		"data:" : "lp 5/6/2021 12:13",
 		"getYCoordinateFor:" : "lp 5/5/2021 22:17",
 		"initialize" : "lp 5/6/2021 11:22",
 		"lines" : "lp 5/5/2021 21:16",
 		"lines:" : "lp 5/5/2021 21:16",
 		"newLineFrom:to:" : "lp 5/5/2021 21:28",
 		"segmentHeightMultiplier" : "lp 5/5/2021 21:46",
-		"segmentWidth" : "lp 5/5/2021 21:38" } }
+		"segmentWidth" : "lp 5/5/2021 21:38",
+		"updateGraph" : "lp 5/6/2021 12:13" } }

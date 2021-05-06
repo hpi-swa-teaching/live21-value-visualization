@@ -3,8 +3,6 @@ createGraph
 	
 	| graph |
 	
-	self submorphs do: [:morph | morph delete].
-	
 	graph := PolygonMorph
 		vertices: self createSegmentPoints
 		color: self class fillColor
@@ -15,4 +13,4 @@ createGraph
 		hResizing: #spaceFill;
    		vResizing: #spaceFill.
 	
-	self addMorphBack: graph
+	^ graph
