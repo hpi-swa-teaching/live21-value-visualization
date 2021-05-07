@@ -1,0 +1,16 @@
+{
+	"category" : "RuntimeValueVisualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cyclic",
+		"cycleSize",
+		"labeled" ],
+	"name" : "RVVSettingsMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
