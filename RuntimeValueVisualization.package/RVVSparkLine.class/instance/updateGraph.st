@@ -1,7 +1,5 @@
 accessing
 updateGraph
 
-	self submorphs do: [:morph | morph delete].
+	self removeAllMorphs.
 	self addMorphBack: self createGraph
-
-	

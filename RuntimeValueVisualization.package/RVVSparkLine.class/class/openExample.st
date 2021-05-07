@@ -3,9 +3,11 @@ openExample
 
 	| example |
 
-	example := RVVSparkLine new.
+	example := self new.
 	example openInWindow.
 	
-	example add: 20.
-	example add: 10.
-	example add: 30
+	example add: 20;
+		add: 10;
+		add: 30;
+		add: 0.5;
+		add: 40

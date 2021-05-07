@@ -1,5 +1,6 @@
 accessing
 add: aNumber
 
-	self data add: aNumber.
-	self	updateGraph
+	self data addLast: aNumber.
+	self testForAndRemoveOverflowData;
+		updateGraph

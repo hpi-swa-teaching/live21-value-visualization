@@ -6,7 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"data" ],
+		"data",
+		"settings",
+		"label",
+		"cyclic",
+		"cycleSize",
+		"labeled" ],
 	"name" : "RVVSparkLine",
 	"pools" : [
 		 ],
