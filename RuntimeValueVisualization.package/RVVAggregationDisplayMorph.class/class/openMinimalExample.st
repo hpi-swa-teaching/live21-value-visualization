@@ -3,7 +3,7 @@ openMinimalExample
 
 	| example |
 	
-	example := RVVAggregationDisplayMorph new.
+	example := self new.
 	
 	example labelText: 'Average: ';
 		aggregation: [:data | data average];
