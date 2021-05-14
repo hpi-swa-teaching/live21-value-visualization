@@ -1,6 +1,8 @@
 {
 	"class" : {
-		"openExample" : "lp 5/14/2021 11:32" },
+		"openAverageExample" : "lp 5/14/2021 12:03",
+		"openCountExample" : "lp 5/14/2021 12:31",
+		"openExample" : "lp 5/14/2021 12:03" },
 	"instance" : {
 		"aggregation" : "lp 4/30/2021 14:19",
 		"aggregation:" : "lp 4/30/2021 14:19",
@@ -14,4 +16,4 @@
 		"label:" : "lp 4/30/2021 14:01",
 		"labelText:" : "lp 4/30/2021 14:03",
 		"reportValue:" : "lp 5/14/2021 11:28",
-		"updateAggregation" : "lp 5/14/2021 11:25" } }
+		"updateAggregation" : "lp 5/14/2021 12:30" } }

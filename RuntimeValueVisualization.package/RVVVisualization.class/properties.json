@@ -6,9 +6,14 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "RVVSparkLine",
+		"data",
+		"label",
+		"labeled",
+		"labelText",
+		"cyclic",
+		"cycleSize" ],
+	"name" : "RVVVisualization",
 	"pools" : [
 		 ],
-	"super" : "RVVVisualization",
+	"super" : "Morph",
 	"type" : "normal" }

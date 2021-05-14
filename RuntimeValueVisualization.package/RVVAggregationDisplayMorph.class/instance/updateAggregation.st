@@ -3,4 +3,4 @@ updateAggregation
 	
 	(self data isEmpty)
 		ifTrue: [self display contents: '']
-		ifFalse: [self display contents: ((self aggregation value: self data) asString truncateTo: 10)]
+		ifFalse: [self display contents: ((self aggregation value: self data) asString)]

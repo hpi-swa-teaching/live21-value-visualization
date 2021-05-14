@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"defaultCycleSize" : "lp 5/14/2021 12:40",
+		"defaultCyclic" : "lp 5/14/2021 12:40",
+		"defaultLabelText" : "lp 5/14/2021 12:40",
+		"defaultLabeled" : "lp 5/14/2021 12:41" },
+	"instance" : {
+		"cycleSize" : "lp 5/14/2021 12:36",
+		"cycleSize:" : "lp 5/14/2021 12:36",
+		"cyclic" : "lp 5/14/2021 12:36",
+		"cyclic:" : "lp 5/14/2021 12:36",
+		"data" : "lp 5/14/2021 12:36",
+		"data:" : "lp 5/14/2021 12:37",
+		"initialize" : "lp 5/14/2021 12:44",
+		"label" : "lp 5/14/2021 12:37",
+		"label:" : "lp 5/14/2021 12:37",
+		"labelText" : "lp 5/14/2021 12:37",
+		"labelText:" : "lp 5/14/2021 12:37",
+		"labeled" : "lp 5/14/2021 12:37",
+		"labeled:" : "lp 5/14/2021 12:37",
+		"loadDefaultSettings" : "lp 5/14/2021 12:40",
+		"reportValue:" : "lp 5/14/2021 12:46",
+		"testForAndRemoveOverflowData" : "lp 5/14/2021 12:45",
+		"update:with:" : "lp 5/14/2021 12:47",
+		"updateLabel" : "lp 5/14/2021 12:39" } }
