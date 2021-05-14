@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"defaultLabelText" : "lp 5/14/2021 14:16",
+		"openExample" : "lp 5/14/2021 15:43" },
+	"instance" : {
+		"constructDisplayText" : "lp 5/14/2021 15:43",
+		"constructSequence" : "lp 5/14/2021 15:26",
+		"display" : "lp 5/14/2021 15:28",
+		"display:" : "lp 5/14/2021 15:28",
+		"initialize" : "lp 5/14/2021 15:32",
+		"updateVisualization" : "lp 5/14/2021 15:42" } }

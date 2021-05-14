@@ -1,0 +1,14 @@
+{
+	"category" : "RuntimeValueVisualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"display" ],
+	"name" : "RVVSequenceVisualization",
+	"pools" : [
+		 ],
+	"super" : "RVVVisualization",
+	"type" : "normal" }
