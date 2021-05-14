@@ -1,4 +1,4 @@
-accessing
+as yet unclassified
 update: anAspect with: aValue
 
 	(anAspect = #cyclic) ifTrue: [
