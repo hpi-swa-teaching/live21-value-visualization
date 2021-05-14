@@ -1,5 +1,5 @@
 as yet unclassified
-updateAggregation
+updateVisualization
 	
 	(self data isEmpty)
 		ifTrue: [self display contents: '']

@@ -9,8 +9,6 @@
 		"createGraph" : "lp 5/6/2021 12:13",
 		"createSegmentPoints" : "lp 5/6/2021 11:36",
 		"getYCoordinateFor:" : "lp 5/5/2021 22:17",
-		"reportValue:" : "lp 5/14/2021 12:46",
 		"segmentHeightMultiplier" : "lp 5/5/2021 21:46",
 		"segmentWidth" : "lp 5/5/2021 21:38",
-		"update:with:" : "lp 5/14/2021 12:49",
-		"updateGraph" : "lp 5/14/2021 11:57" } }
+		"updateVisualization" : "lp 5/14/2021 15:02" } }

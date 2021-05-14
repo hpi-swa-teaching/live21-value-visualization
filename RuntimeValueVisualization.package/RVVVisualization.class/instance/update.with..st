@@ -3,11 +3,13 @@ update: anAspect with: aValue
 
 	(anAspect = #cyclic) ifTrue: [
 		self cyclic: aValue;
-			testForAndRemoveOverflowData].
+			testForAndRemoveOverflowData;
+			updateVisualization].
 
 	(anAspect = #cycleSize) ifTrue: [
 		self cycleSize: aValue;
-			testForAndRemoveOverflowData].
+			testForAndRemoveOverflowData;
+			updateVisualization].
 
 	(anAspect = #labeled) ifTrue: [
 		self labeled: aValue;
