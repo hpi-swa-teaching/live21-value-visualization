@@ -9,9 +9,6 @@ openExample
 	sparkLine := RVVSparkLine new.
 	sparkLine openInWindow.
 
-	sparkLine add: 10;
-			add: 30;
-			add: 0.5;
-			add: 40.
+	{20 . 10 . 30 . 0.5 . 40} do: [:number | sparkLine reportValue: number].
 
 	settingsMorph addDependent: sparkLine.

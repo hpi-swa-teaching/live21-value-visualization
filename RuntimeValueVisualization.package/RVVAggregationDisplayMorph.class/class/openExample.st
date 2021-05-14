@@ -1,5 +1,5 @@
 as yet unclassified
-openMinimalExample
+openExample
 
 	| example |
 	
@@ -7,6 +7,6 @@ openMinimalExample
 	
 	example labelText: 'Average: ';
 		aggregation: [:data | data average];
-		insert: 0.5;
-		insert: 0.4;
 		openInWindow.
+		
+	{20 . 10 . 30 . 0.5 . 40} do: [:number | example reportValue: number]

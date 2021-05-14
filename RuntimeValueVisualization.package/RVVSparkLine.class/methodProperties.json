@@ -6,9 +6,8 @@
 		"fillColor" : "lp 5/6/2021 11:40",
 		"lineColor" : "lp 5/6/2021 11:40",
 		"lineWidth" : "lp 5/5/2021 21:26",
-		"openExample" : "lp 5/7/2021 17:02" },
+		"openExample" : "lp 5/14/2021 11:31" },
 	"instance" : {
-		"add:" : "lp 5/7/2021 18:58",
 		"createGraph" : "lp 5/6/2021 12:13",
 		"createSegmentPoints" : "lp 5/6/2021 11:36",
 		"cycleSize" : "lp 5/7/2021 18:37",
@@ -25,6 +24,7 @@
 		"labeled:" : "lp 5/7/2021 18:37",
 		"loadDefaultSettings" : "lp 5/7/2021 18:50",
 		"newLineFrom:to:" : "lp 5/5/2021 21:28",
+		"reportValue:" : "lp 5/14/2021 11:28",
 		"segmentHeightMultiplier" : "lp 5/5/2021 21:46",
 		"segmentWidth" : "lp 5/5/2021 21:38",
 		"testForAndRemoveOverflowData" : "lp 5/7/2021 18:46",

@@ -6,8 +6,4 @@ openExample
 	example := self new.
 	example openInWindow.
 	
-	example add: 20;
-		add: 10;
-		add: 30;
-		add: 0.5;
-		add: 40
+	{20 . 10 . 30 . 0.5 . 40} do: [:number | example reportValue: number]

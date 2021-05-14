@@ -1,11 +1,10 @@
 as yet unclassified
 initializeChildren
 
-	| specs widgets builder |
+	| specs builder |
 	
 	builder := ToolBuilder default.		
 	specs := OrderedCollection new.
-	widgets := OrderedCollection new.
 		
 	specs 
 		add: (builder pluggableCheckBoxSpec new

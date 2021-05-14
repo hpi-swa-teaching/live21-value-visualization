@@ -1,5 +1,5 @@
 accessing
-add: aNumber
+reportValue: aNumber
 
 	self data addLast: aNumber.
 	self testForAndRemoveOverflowData;

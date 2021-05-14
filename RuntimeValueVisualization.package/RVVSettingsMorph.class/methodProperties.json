@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"openExample" : "lp 5/7/2021 19:00" },
+		"openExample" : "lp 5/14/2021 11:31" },
 	"instance" : {
 		"cycleSize" : "lp 5/7/2021 16:10",
 		"cycleSize:" : "lp 5/7/2021 16:56",
@@ -10,7 +10,7 @@
 		"cyclic:" : "lp 5/7/2021 16:55",
 		"cyclicCheckboxLabel" : "lp 5/7/2021 15:59",
 		"initialize" : "lp 5/7/2021 16:48",
-		"initializeChildren" : "lp 5/7/2021 16:44",
+		"initializeChildren" : "lp 5/14/2021 11:12",
 		"labeled" : "lp 5/7/2021 15:48",
 		"labeled:" : "lp 5/7/2021 16:56",
 		"labeledCheckboxLabel" : "lp 5/7/2021 15:59",
