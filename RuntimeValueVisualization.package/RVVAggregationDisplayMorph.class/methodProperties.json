@@ -1,19 +1,16 @@
 {
 	"class" : {
-		"openAverageExample" : "lp 5/14/2021 12:03",
-		"openCountExample" : "lp 5/14/2021 12:31",
-		"openExample" : "lp 5/14/2021 12:03" },
+		"defaultLabelText" : "lp 5/14/2021 14:21",
+		"openAverageExample" : "lp 5/14/2021 14:32",
+		"openExample" : "lp 5/14/2021 12:03",
+		"openExampleWith:" : "lp 5/14/2021 14:31",
+		"openMaxExample" : "lp 5/14/2021 14:31",
+		"openMinExample" : "lp 5/14/2021 14:31" },
 	"instance" : {
 		"aggregation" : "lp 4/30/2021 14:19",
 		"aggregation:" : "lp 4/30/2021 14:19",
-		"clearData" : "lp 4/28/2021 18:23",
-		"data" : "lp 4/30/2021 14:02",
-		"data:" : "lp 4/30/2021 14:00",
 		"display" : "lp 4/30/2021 14:02",
 		"display:" : "lp 4/30/2021 14:02",
-		"initialize" : "lp 4/30/2021 14:17",
-		"label" : "lp 4/30/2021 14:02",
-		"label:" : "lp 4/30/2021 14:01",
-		"labelText:" : "lp 4/30/2021 14:03",
-		"reportValue:" : "lp 5/14/2021 11:28",
+		"initialize" : "lp 5/14/2021 14:22",
+		"reportValue:" : "lp 5/14/2021 14:21",
 		"updateAggregation" : "lp 5/14/2021 12:30" } }

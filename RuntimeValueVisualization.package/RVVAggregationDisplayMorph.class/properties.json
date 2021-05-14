@@ -7,11 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"aggregation",
-		"data",
-		"display",
-		"label" ],
+		"display" ],
 	"name" : "RVVAggregationDisplayMorph",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "RVVVisualization",
 	"type" : "normal" }

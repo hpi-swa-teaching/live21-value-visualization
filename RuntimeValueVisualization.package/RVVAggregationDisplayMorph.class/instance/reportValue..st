@@ -1,5 +1,6 @@
-accessing
+as yet unclassified
 reportValue: aNumber
 
-	self data add: aNumber.
+	super reportValue: aNumber.
+	
 	self updateAggregation
