@@ -11,4 +11,6 @@ update: anAspect with: aValue
 			testForAndRemoveOverflowData;
 			updateGraph].
 
-	(anAspect = #labeled) ifTrue: [self labeled: aValue].
+	(anAspect = #labeled) ifTrue: [
+		self labeled: aValue;
+			updateLabel].

@@ -9,9 +9,10 @@
 		"data",
 		"settings",
 		"label",
+		"labeled",
+		"labelText",
 		"cyclic",
-		"cycleSize",
-		"labeled" ],
+		"cycleSize" ],
 	"name" : "RVVSparkLine",
 	"pools" : [
 		 ],

@@ -1,5 +1,5 @@
 accessing
 updateGraph
 
-	self removeAllMorphs.
+	self removeAllButFirstSubmorph.
 	self addMorphBack: self createGraph
