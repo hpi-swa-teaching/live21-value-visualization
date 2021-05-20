@@ -6,4 +6,4 @@ openExample
 	example := self new.
 	example openInWindow.
 	
-	{#mouseOver . #mouseOver . #mouseOver . #mouseLeave . #mouseLeave . #mouseOver} do: [:number | example reportValue: number]
+	{#mouseOver . #mouseOver . #mouseOver . #mouseLeave . #mouseLeave . #mouseOver} do: [:event | example reportValue: event]
