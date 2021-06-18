@@ -1,0 +1,14 @@
+{
+	"category" : "RuntimeValueVisualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RVVUtils",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
