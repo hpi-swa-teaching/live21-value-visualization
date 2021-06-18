@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"colors" : "lp 6/17/2021 18:29",
+		"colors:" : "lp 6/17/2021 18:28",
+		"createBlockWithLength:andColor:" : "lp 6/17/2021 18:26",
+		"createEmptyBlockWithLength:" : "lp 6/17/2021 18:52",
+		"currentSizes" : "lp 6/17/2021 18:30",
+		"currentSizes:" : "lp 6/17/2021 18:30",
+		"initialize" : "lp 6/17/2021 18:40",
+		"maxSizes" : "lp 6/17/2021 18:28",
+		"maxSizes:" : "lp 6/17/2021 18:28",
+		"stepWidth" : "lp 6/17/2021 18:47",
+		"update" : "lp 6/17/2021 19:08" } }

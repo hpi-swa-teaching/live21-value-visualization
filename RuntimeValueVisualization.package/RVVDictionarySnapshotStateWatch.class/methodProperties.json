@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"openExample" : "lp 6/17/2021 15:42" },
+	"instance" : {
+		"colors" : "lp 6/17/2021 15:14",
+		"colors:" : "lp 6/17/2021 15:14",
+		"currentSizes" : "lp 6/18/2021 09:41",
+		"currentSizes:" : "lp 6/18/2021 09:41",
+		"display" : "lp 6/17/2021 18:24",
+		"display:" : "lp 6/17/2021 18:24",
+		"handlesMouseWheel:" : "lp 6/17/2021 16:25",
+		"initialize" : "lp 6/18/2021 09:46",
+		"maxSizes" : "lp 6/18/2021 09:47",
+		"maxSizes:" : "lp 6/18/2021 09:47",
+		"mouseWheel:" : "lp 6/18/2021 09:53",
+		"reportValue:" : "lp 6/18/2021 09:47",
+		"testForAndRemoveOverflowData" : "lp 6/18/2021 09:42",
+		"updateColorsWithKeys:" : "lp 6/18/2021 09:34",
+		"updateMaxSizesWithSizes:" : "lp 6/18/2021 09:47",
+		"updateVisualization" : "lp 6/18/2021 09:47" } }
