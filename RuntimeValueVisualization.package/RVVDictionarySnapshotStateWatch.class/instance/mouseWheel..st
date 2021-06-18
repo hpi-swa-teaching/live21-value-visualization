@@ -4,6 +4,7 @@ mouseWheel: anEvent
 	(self data size = 0) ifFalse: [
 		| dataIndex |
 		
+		self snapshotSelected: true.
 		dataIndex := self data indexOf: self currentSizes.
 
 		anEvent isWheelUp ifTrue: [dataIndex := dataIndex - 1].

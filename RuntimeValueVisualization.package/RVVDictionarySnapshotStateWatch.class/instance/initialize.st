@@ -9,4 +9,5 @@ initialize
 		maxSizes: Dictionary new;
 		currentSizes: Dictionary new;
 		display: RVVDictionarySnapshotBar new;
-		addMorphBack: self display
+		addMorphBack: self display;
+		snapshotSelected: false

@@ -9,12 +9,14 @@
 		"display" : "lp 6/17/2021 18:24",
 		"display:" : "lp 6/17/2021 18:24",
 		"handlesMouseWheel:" : "lp 6/17/2021 16:25",
-		"initialize" : "lp 6/18/2021 09:46",
+		"initialize" : "lp 6/18/2021 12:10",
 		"maxSizes" : "lp 6/18/2021 09:47",
 		"maxSizes:" : "lp 6/18/2021 09:47",
-		"mouseWheel:" : "lp 6/18/2021 09:53",
-		"reportValue:" : "lp 6/18/2021 09:47",
+		"mouseWheel:" : "lp 6/18/2021 12:10",
+		"reportValue:" : "lp 6/18/2021 12:17",
+		"snapshotSelected" : "lp 6/18/2021 12:10",
+		"snapshotSelected:" : "lp 6/18/2021 12:10",
 		"testForAndRemoveOverflowData" : "lp 6/18/2021 09:42",
 		"updateColorsWithKeys:" : "lp 6/18/2021 09:34",
 		"updateMaxSizesWithSizes:" : "lp 6/18/2021 09:47",
-		"updateVisualization" : "lp 6/18/2021 09:47" } }
+		"updateVisualization" : "lp 6/18/2021 12:13" } }
