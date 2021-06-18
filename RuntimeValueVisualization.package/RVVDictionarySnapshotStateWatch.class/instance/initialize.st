@@ -5,9 +5,12 @@ initialize
 	
 	self hResizing: #shrinkWrap;
 		vResizing: #shrinkWrap;
+		changeTableLayout;
+		listDirection: #leftToRight;
+		cellPositioning: #bottomLeft;
+		cellGap: 0;
 		colors: Dictionary new;
 		maxSizes: Dictionary new;
 		currentSizes: Dictionary new;
-		display: RVVDictionarySnapshotBar new;
-		addMorphBack: self display;
-		snapshotSelected: false
+		snapshotSelected: false;
+		initializeChildren
