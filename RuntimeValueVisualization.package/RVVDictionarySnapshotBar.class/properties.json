@@ -1,0 +1,16 @@
+{
+	"category" : "RuntimeValueVisualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"snapshot",
+		"maxSizes",
+		"colors" ],
+	"name" : "RVVDictionarySnapshotBar",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

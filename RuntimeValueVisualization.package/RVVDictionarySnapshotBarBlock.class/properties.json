@@ -1,0 +1,15 @@
+{
+	"category" : "RuntimeValueVisualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"key",
+		"collection" ],
+	"name" : "RVVDictionarySnapshotBarBlock",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }
