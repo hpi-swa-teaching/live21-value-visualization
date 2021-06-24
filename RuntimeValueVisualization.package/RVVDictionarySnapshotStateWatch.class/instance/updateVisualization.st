@@ -3,6 +3,6 @@ updateVisualization
 
 	(self display) 
 		maxSizes: self maxSizes;
-		currentSizes: self currentSizes;
+		snapshot: self currentSnapshot;
 		colors: self colors;
 		update

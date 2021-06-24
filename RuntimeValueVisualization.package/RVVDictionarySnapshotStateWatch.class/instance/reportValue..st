@@ -1,11 +1,11 @@
 as yet unclassified
 reportValue: aDictionary
 
-	self data addLast: (aDictionary collect: [:array | array size]).
+	self data addLast: (self makeSnapshotOf: aDictionary).
 	self testForAndRemoveOverflowData;
 		updateMaxSizesWithSizes: self data last;
 		updateColorsWithKeys: self data last keys.
 		
-	self snapshotSelected ifFalse: [self currentSizes: self data last].
+	self snapshotSelected ifFalse: [self currentSnapshot: self data last].
 	
 	self updateVisualization

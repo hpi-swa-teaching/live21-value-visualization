@@ -3,10 +3,10 @@ incrementBar
 
 	| dataIndex |
 	
-	dataIndex := (self data indexOf: self currentSizes) + 1.
+	dataIndex := (self data indexOf: self currentSnapshot) + 1.
 
 	(dataIndex > self data size)
-		ifTrue: [self currentSizes: (self data last)]
-		ifFalse: [self currentSizes: (self data at: dataIndex)].
+		ifTrue: [self currentSnapshot: (self data last)]
+		ifFalse: [self currentSnapshot: (self data at: dataIndex)].
 		
 	self updateVisualization

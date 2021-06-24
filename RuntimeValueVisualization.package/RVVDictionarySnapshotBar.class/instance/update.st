@@ -8,12 +8,14 @@ update
 	stepWidth := self stepWidth.
 	
 	self maxSizes keysAndValuesDo: [:key :value | 
-		(self currentSizes includesKey: key)
+		(self snapshot includesKey: key)
 			ifTrue: [ | currentSize |
-				currentSize := self currentSizes at: key.
+				currentSize := (self snapshot at: key) size.
 				self addMorphBack: (
-					self createBlockWithLength: stepWidth * currentSize 
-						label: key asString 
+					RVVDictionarySnapshotBarBlock 
+						newWithExtent: stepWidth * currentSize @ self height
+						key: key
+						value: (self snapshot at: key)
 						andColor: (self colors at: key)).
 				(currentSize < value) ifTrue: [
 					self addMorphBack: (self createEmptyBlockWithLength: stepWidth * (value - currentSize))]]

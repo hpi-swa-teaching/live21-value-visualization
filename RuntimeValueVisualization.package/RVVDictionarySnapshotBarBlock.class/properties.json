@@ -6,13 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"snapshotSelected",
-		"currentSnapshot",
-		"maxSizes",
-		"colors",
-		"display" ],
-	"name" : "RVVDictionarySnapshotStateWatch",
+		"key",
+		"collection" ],
+	"name" : "RVVDictionarySnapshotBarBlock",
 	"pools" : [
 		 ],
-	"super" : "RVVVisualization",
+	"super" : "RectangleMorph",
 	"type" : "normal" }

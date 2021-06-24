@@ -1,8 +1,8 @@
 as yet unclassified
-updateMaxSizesWithSizes: sizeCollection
+updateMaxSizesWithSizes: snapshot
 
-		sizeCollection keysAndValuesDo: [:key :size | 
+		snapshot keysAndValuesDo: [:key :aCollection | 
 			(self maxSizes includesKey: key)
-				ifTrue: [((self maxSizes at: key) < size)
-					ifTrue: [self maxSizes at: key put: size]]
-				ifFalse: [self maxSizes at: key put: size]]
+				ifTrue: [((self maxSizes at: key) < aCollection size)
+					ifTrue: [self maxSizes at: key put: aCollection size]]
+				ifFalse: [self maxSizes at: key put: aCollection size]]

@@ -13,10 +13,10 @@ initializeChildren
 		add: (builder pluggableButtonSpec new
 			model: self;
 			action: #decrementBar;
-			label: #labelUp);
+			label: #labelDecrementBar);
 		add: (builder pluggableButtonSpec new
 			model: self;
 			action: #incrementBar;
-			label: #labelDown).
+			label: #labelIncrementBar).
 
 	self addAllMorphs: (specs collect: [:spec | spec buildWith: builder])

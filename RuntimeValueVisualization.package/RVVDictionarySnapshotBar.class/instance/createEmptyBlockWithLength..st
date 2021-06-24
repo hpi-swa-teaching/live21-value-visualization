@@ -1,4 +1,7 @@
 as yet unclassified
 createEmptyBlockWithLength: length
 
-	^ self createBlockWithLength: length label: '' andColor: self color
+	^ RectangleMorph new
+		extent: length @ self height;
+		color: self color;
+		borderWidth: 0

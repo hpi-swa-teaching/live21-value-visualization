@@ -8,9 +8,9 @@ initialize
 		changeTableLayout;
 		listDirection: #leftToRight;
 		cellPositioning: #bottomLeft;
-		cellGap: 0;
+		cellGap: 4;
 		colors: Dictionary new;
 		maxSizes: Dictionary new;
-		currentSizes: Dictionary new;
+		currentSnapshot: Dictionary new;
 		snapshotSelected: false;
 		initializeChildren
