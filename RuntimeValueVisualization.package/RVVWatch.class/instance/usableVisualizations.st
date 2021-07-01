@@ -5,9 +5,9 @@ usableVisualizations
 	
 	self data size = 0 ifTrue: [^ RVVVisualization subclasses asOrderedCollection].
 	
-	exampleSnapshot := self visualization data first.
+	exampleSnapshot := self data first.
 	
-	exampleSnapshot isNumber ifTrue: [^ OrderedCollection new
+	(exampleSnapshot isNumber or: exampleSnapshot isPoint) ifTrue: [^ OrderedCollection new
 		add: RVVAggregationDisplayMorph;
 		add: RVVSequenceVisualization;
 		add: RVVSparkLine;

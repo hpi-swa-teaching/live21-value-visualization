@@ -1,4 +1,4 @@
 accessing
 data
 
-	^ self visualization data
+	^ data

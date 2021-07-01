@@ -9,7 +9,8 @@
 		"labeled",
 		"cyclic",
 		"cycleSize",
-		"visualization" ],
+		"visualization",
+		"data" ],
 	"name" : "RVVWatch",
 	"pools" : [
 		 ],
