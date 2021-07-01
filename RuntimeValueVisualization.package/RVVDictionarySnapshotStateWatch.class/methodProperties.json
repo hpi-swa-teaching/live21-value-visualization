@@ -11,7 +11,7 @@
 		"display:" : "lp 6/17/2021 18:24",
 		"handlesMouseWheel:" : "lp 6/17/2021 16:25",
 		"incrementBar" : "lp 6/24/2021 17:57",
-		"initialize" : "lp 6/24/2021 17:56",
+		"initialize" : "lp 6/25/2021 14:02",
 		"initializeChildren" : "lp 6/18/2021 13:49",
 		"labelDecrementBar" : "lp 6/18/2021 13:49",
 		"labelIncrementBar" : "lp 6/18/2021 13:49",
@@ -25,4 +25,4 @@
 		"testForAndRemoveOverflowData" : "lp 6/24/2021 17:54",
 		"updateColorsWithKeys:" : "lp 6/18/2021 09:34",
 		"updateMaxSizesWithSizes:" : "lp 6/24/2021 18:08",
-		"updateVisualization" : "lp 6/24/2021 18:02" } }
+		"updateVisualization" : "lp 7/1/2021 16:47" } }

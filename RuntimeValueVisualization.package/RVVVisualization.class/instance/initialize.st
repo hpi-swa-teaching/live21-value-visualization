@@ -9,8 +9,7 @@ initialize
 		updateLabel;
 		addMorphBack: self label;
 		changeTableLayout;
-		hResizing: #spaceFill;
-		vResizing: #spaceFill;
 		listDirection: #topToBottom;
 		cellPositioning: #bottomLeft;
+		extent: 100 @ 30;
 		color: Color white

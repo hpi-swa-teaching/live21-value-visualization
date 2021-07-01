@@ -1,4 +1,4 @@
 as yet unclassified
-lineWidth
+defaultCyclic
 
-	^ 1
+	^ true
