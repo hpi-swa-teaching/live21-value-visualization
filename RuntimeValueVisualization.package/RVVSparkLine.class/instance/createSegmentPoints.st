@@ -5,7 +5,7 @@ createSegmentPoints
 
 	points := OrderedCollection new.
 	points addLast: (self segmentWidth) @ (self getYCoordinateFor: 0).
-	
+
 	self data doWithIndex: [:dataPoint :index | 
 		points addLast: (self segmentWidth * index) @ (self getYCoordinateFor: dataPoint)
 	].
