@@ -3,9 +3,9 @@ initialize
 
 	super initialize.
 	
-	self extent: 200 @ 30;
-		snapshot: Dictionary new;
+	self snapshot: Dictionary new;
 		maxSizes: Dictionary new;
+		extent: 100 @ 30;
 		color: Color white;
 		changeTableLayout;
 		listDirection: #leftToRight;

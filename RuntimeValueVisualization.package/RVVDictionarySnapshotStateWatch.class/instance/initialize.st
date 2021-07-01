@@ -3,11 +3,11 @@ initialize
 
 	super initialize.
 	
-	self hResizing: #shrinkWrap;
-		vResizing: #shrinkWrap;
-		changeTableLayout;
+	self changeTableLayout;
 		listDirection: #leftToRight;
 		cellPositioning: #bottomLeft;
+		vResizing: #shrinkWrap;
+		hResizing: #shrinkWrap;
 		cellGap: 4;
 		colors: Dictionary new;
 		maxSizes: Dictionary new;
