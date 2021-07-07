@@ -13,4 +13,9 @@ initialize
 		cellGap: 4;
 		loadDefaultSettings;
 		data: OrderedCollection new;
-		initializeChildren
+		visualization: (RVVVisualization new
+			cyclic: self cyclic;
+			cycleSize: self cycleSize;
+			labeled: self labeled;
+			data: self data);
+		addMorphBack: self visualization
