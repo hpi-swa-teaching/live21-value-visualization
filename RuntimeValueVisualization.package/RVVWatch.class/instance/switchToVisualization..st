@@ -1,7 +1,7 @@
 accessing
 switchToVisualization: anRVVVisualizationClass
 	
-	self removeAllButFirstSubmorph;
+	self removeMorph: self visualization;
 		visualization: (anRVVVisualizationClass new
 			cycleSize: self cycleSize;
 			cyclic: self cyclic;
