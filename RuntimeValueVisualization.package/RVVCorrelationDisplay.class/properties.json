@@ -1,0 +1,14 @@
+{
+	"category" : "RuntimeValueVisualization-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"watches" ],
+	"name" : "RVVCorrelationDisplay",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
