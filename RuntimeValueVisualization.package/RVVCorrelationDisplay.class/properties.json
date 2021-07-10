@@ -3,15 +3,11 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"Default" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"labeled",
-		"cyclic",
-		"cycleSize",
-		"visualization",
-		"data" ],
-	"name" : "RVVWatch",
+		"displays" ],
+	"name" : "RVVCorrelationDisplay",
 	"pools" : [
 		 ],
 	"super" : "Morph",

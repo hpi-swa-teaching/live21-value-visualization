@@ -6,13 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"data",
-		"label",
-		"labeled",
-		"cyclic",
-		"cycleSize" ],
-	"name" : "RVVVisualization",
+		 ],
+	"name" : "RVVLineChart",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "RVVVisualization",
 	"type" : "normal" }

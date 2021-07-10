@@ -1,4 +1,4 @@
 accessing
 labelText
 
-	^ labelText
+	^ self label contents

@@ -1,4 +1,4 @@
 as yet unclassified
 defaultCycleSize
 
-	^ 100
+	^ 500
