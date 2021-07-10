@@ -9,7 +9,6 @@
 		"data",
 		"label",
 		"labeled",
-		"labelText",
 		"cyclic",
 		"cycleSize" ],
 	"name" : "RVVVisualization",

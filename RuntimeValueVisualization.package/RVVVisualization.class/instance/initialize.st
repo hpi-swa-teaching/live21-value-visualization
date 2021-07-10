@@ -11,5 +11,7 @@ initialize
 		changeTableLayout;
 		listDirection: #topToBottom;
 		cellPositioning: #bottomLeft;
+		hResizing: #spaceFill;
+		vResizing: #spaceFill;
 		extent: 100 @ 30;
 		color: Color white

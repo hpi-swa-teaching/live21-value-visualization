@@ -1,4 +1,4 @@
 as yet unclassified
 default
 
-	^ Default ifNil: [Default := RVVCorrelationDisplay new]
+	^ Default ifNil: [Default:= self new]

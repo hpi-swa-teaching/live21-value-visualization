@@ -3,12 +3,11 @@ initialize
 
 	super initialize.
 	
-	self watches: Dictionary new;
+	self	displays: Dictionary new;
 		changeTableLayout;
 		hResizing: #spaceFill;
 		vResizing: #spaceFill;
-		listDirection: #leftToRight;
+		listDirection: #topToBottom;
 		layoutInset: 8;
 		color: Color white;
-		cellGap: 4;
-		initializeChildren
+		cellGap: 4

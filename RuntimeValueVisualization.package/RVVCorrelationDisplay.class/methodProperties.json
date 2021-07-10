@@ -1,12 +1,13 @@
 {
 	"class" : {
-		"default" : "lp 7/7/2021 17:29",
-		"open" : "lp 7/7/2021 17:34" },
+		"default" : "lp 7/10/2021 14:19",
+		"open" : "lp 7/10/2021 14:20",
+		"reportValue:forWatch:" : "lp 7/10/2021 16:47",
+		"resetDefault" : "lp 7/10/2021 14:19",
+		"valueReportedFrom:" : "lp 7/10/2021 16:37" },
 	"instance" : {
-		"addWatch:" : "lp 7/7/2021 16:47",
-		"default" : "lp 7/7/2021 17:28",
-		"initialize" : "lp 7/7/2021 17:36",
-		"initializeChildren" : "lp 7/7/2021 17:43",
-		"watchList" : "lp 7/7/2021 16:46",
-		"watches" : "lp 7/7/2021 16:30",
-		"watches:" : "lp 7/7/2021 16:30" } }
+		"createLineChartFor:" : "lp 7/10/2021 16:45",
+		"displays" : "lp 7/10/2021 16:43",
+		"displays:" : "lp 7/10/2021 16:44",
+		"initialize" : "lp 7/10/2021 16:48",
+		"reportValue:forWatch:" : "lp 7/10/2021 16:45" } }

@@ -1,4 +1,4 @@
 accessing
 labelText: aString
 
-	labelText := aString
+	self label contents: aString
