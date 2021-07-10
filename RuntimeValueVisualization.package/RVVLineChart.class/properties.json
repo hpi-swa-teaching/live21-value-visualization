@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "RVVSparkLine",
+	"name" : "RVVLineChart",
 	"pools" : [
 		 ],
-	"super" : "RVVLineChart",
+	"super" : "RVVVisualization",
 	"type" : "normal" }
