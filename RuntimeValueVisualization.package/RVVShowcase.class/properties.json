@@ -1,0 +1,15 @@
+{
+	"category" : "RuntimeValueVisualization-Showcase",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bodySystem",
+		"bodies" ],
+	"name" : "RVVShowcase",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
