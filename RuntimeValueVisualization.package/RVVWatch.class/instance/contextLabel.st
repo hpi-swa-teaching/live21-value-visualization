@@ -3,7 +3,7 @@ contextLabel
 
 	| artifact |
 	
-	artifact := self containingSandblock containingArtefact.
+	artifact := self containingSandblock ifNil: [nil] ifNotNil: [self containingSandblock containingArtefact].
 	
 	^ artifact 
 		ifNil: [''] 

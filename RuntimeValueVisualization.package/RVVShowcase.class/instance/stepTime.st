@@ -1,4 +1,4 @@
 accessing
 stepTime
 
-	^ 100
+	^ 10
