@@ -6,4 +6,4 @@ bodyPositionFor: aBody
 	position := position * (self extent / 80).
 	position := position + self center.
 	
-	^ SBWatch report: position for: 967096942
+	^ position
