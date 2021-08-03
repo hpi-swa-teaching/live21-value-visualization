@@ -10,7 +10,7 @@ openSwitchVisualizationMenu
 		label: 'Select a visualization'.
 		
 	self usableVisualizations do: [:visualization |
-		spec add: visualization name
+		spec add: visualization visualizationName
 			target: self
 			selector: #switchToVisualization:
 			argumentList: (Array with: visualization)].

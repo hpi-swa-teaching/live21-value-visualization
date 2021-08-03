@@ -2,7 +2,8 @@
 	"class" : {
 		"canHandle:" : "lp 7/7/2021 12:45",
 		"defaultLabelText" : "lp 5/14/2021 14:16",
-		"openExample" : "lp 5/20/2021 16:28" },
+		"openExample" : "lp 5/20/2021 16:28",
+		"visualizationName" : "lp 8/3/2021 17:25" },
 	"instance" : {
 		"constructDisplayText" : "lp 5/14/2021 15:43",
 		"constructSequence" : "lp 5/14/2021 15:26",
