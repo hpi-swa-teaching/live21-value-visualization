@@ -1,18 +1,15 @@
 {
 	"class" : {
 		"canHandle:" : "lp 7/7/2021 12:45",
+		"defaultAggregations" : "lp 8/3/2021 17:41",
 		"defaultLabelText" : "lp 5/14/2021 14:21",
-		"openAverageExample" : "lp 5/14/2021 14:32",
-		"openExample" : "lp 5/14/2021 12:03",
-		"openExampleWith:" : "lp 5/14/2021 14:31",
-		"openMaxExample" : "lp 5/14/2021 14:31",
-		"openMinExample" : "lp 5/14/2021 14:31",
+		"openExample" : "lp 8/3/2021 18:16",
 		"visualizationName" : "lp 8/3/2021 17:20" },
 	"instance" : {
-		"aggregation" : "lp 4/30/2021 14:19",
-		"aggregation:" : "lp 4/30/2021 14:19",
-		"display" : "lp 4/30/2021 14:02",
-		"display:" : "lp 4/30/2021 14:02",
-		"initialize" : "lp 6/25/2021 12:58",
+		"aggregations" : "lp 8/3/2021 17:30",
+		"aggregations:" : "lp 8/3/2021 18:18",
+		"displays" : "lp 8/3/2021 17:30",
+		"displays:" : "lp 8/3/2021 18:17",
+		"initialize" : "lp 8/3/2021 18:13",
 		"makeSnapshotOf:" : "lp 6/25/2021 12:52",
-		"updateVisualization" : "lp 6/25/2021 12:59" } }
+		"updateVisualization" : "lp 8/3/2021 18:15" } }

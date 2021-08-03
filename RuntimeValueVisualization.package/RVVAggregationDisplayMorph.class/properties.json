@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"aggregation",
-		"display" ],
+		"aggregations",
+		"displays" ],
 	"name" : "RVVAggregationDisplayMorph",
 	"pools" : [
 		 ],

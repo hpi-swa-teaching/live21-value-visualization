@@ -1,9 +1,8 @@
 initialization
 initialize
-
 	super initialize.
-
-	self display: (StringMorph new extent: 90 @ 20);
-		aggregation: [:data | data average];
-		addMorphBack: self display;
+	
+	self aggregations: self class defaultAggregations;
+		displays: (self aggregations collect: [:aggregation | StringMorph new extent: 90@20]);
+		addAllMorphs: self displays values;
 		updateVisualization

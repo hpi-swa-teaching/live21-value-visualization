@@ -1,6 +1,7 @@
 as yet unclassified
 updateVisualization
 	
-	(self data isEmpty)
-		ifTrue: [self display contents: '']
-		ifFalse: [self display contents: ((self aggregation value: self data) asString)]
+	self data isEmpty
+		ifTrue: [self displays keysAndValuesDo: [:key :display | display contents: key, ': ']]
+		ifFalse: [self displays keysAndValuesDo: [:key :display | 
+				display contents: key, ': ', ((self aggregations at: key) value: self data) asString]]
