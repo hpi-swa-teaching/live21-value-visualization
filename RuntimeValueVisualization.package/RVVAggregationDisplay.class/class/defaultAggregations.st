@@ -1,4 +1,4 @@
-as yet unclassified
+class name
 defaultAggregations
 
 	^ Dictionary newFromPairs: {

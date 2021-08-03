@@ -1,7 +1,7 @@
-as yet unclassified
+initialization
 initialize
 
 	super initialize.
 	
-	self display: self constructDisplay;
+	self display: StringMorph new;
 		addMorphBack: self display

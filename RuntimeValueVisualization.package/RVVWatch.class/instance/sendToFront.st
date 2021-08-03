@@ -1,4 +1,4 @@
-accessing
+menu
 sendToFront
 
 	self containingWindow sendToFront

@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 updateMaxSizesWithSizes: snapshot
 
 		snapshot keysAndValuesDo: [:key :aCollection | 

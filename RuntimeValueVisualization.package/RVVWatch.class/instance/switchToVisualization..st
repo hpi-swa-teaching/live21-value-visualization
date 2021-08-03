@@ -1,4 +1,4 @@
-accessing
+event handling
 switchToVisualization: anRVVVisualizationClass
 	
 	self removeMorph: self visualization;

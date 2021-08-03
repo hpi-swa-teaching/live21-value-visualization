@@ -1,4 +1,4 @@
-as yet unclassified
+geometry
 segmentHeightMultiplier
 
 	^ self height / self data max

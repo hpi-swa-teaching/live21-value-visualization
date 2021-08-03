@@ -1,4 +1,4 @@
-accessing
+initialization
 loadDefaultSettings
 
 	self cyclic: self class defaultCyclic;

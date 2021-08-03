@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeChildren
 
 	| specs builder |
@@ -13,10 +13,10 @@ initializeChildren
 		add: (builder pluggableButtonSpec new
 			model: self;
 			action: #decrementBar;
-			label: #labelDecrementBar);
+			label: '-');
 		add: (builder pluggableButtonSpec new
 			model: self;
 			action: #incrementBar;
-			label: #labelIncrementBar).
+			label: '+').
 
 	self addAllMorphs: (specs collect: [:spec | spec buildWith: builder])

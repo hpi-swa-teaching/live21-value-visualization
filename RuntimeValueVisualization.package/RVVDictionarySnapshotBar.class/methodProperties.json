@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"blockWidth" : "lp 8/3/2021 19:40",
 		"colors" : "lp 6/17/2021 18:29",
 		"colors:" : "lp 6/17/2021 18:28",
 		"createEmptyBlockWithLength:" : "lp 6/24/2021 18:36",
@@ -11,5 +12,4 @@
 		"maxSizes:" : "lp 6/17/2021 18:28",
 		"snapshot" : "lp 6/24/2021 17:57",
 		"snapshot:" : "lp 6/24/2021 17:57",
-		"stepWidth" : "lp 6/24/2021 18:06",
-		"update" : "lp 6/24/2021 18:26" } }
+		"update" : "lp 8/3/2021 19:41" } }

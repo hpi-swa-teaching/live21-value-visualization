@@ -1,4 +1,4 @@
-as yet unclassified
+geometry
 segmentWidth
 
 	^ self width / self data size

@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 createSegmentPoints
 	
 	^ self data collectWithIndex: [:dataPoint :index | 

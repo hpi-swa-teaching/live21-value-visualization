@@ -1,4 +1,4 @@
-accessing
+updating
 testForAndRemoveOverflowData
 	
 	(self cyclic and: self data size > self cycleSize) 

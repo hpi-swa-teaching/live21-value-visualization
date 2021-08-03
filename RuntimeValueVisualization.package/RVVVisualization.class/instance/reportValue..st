@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 reportValue: anObject
 
 	self data addLast: (self makeSnapshotOf: anObject).

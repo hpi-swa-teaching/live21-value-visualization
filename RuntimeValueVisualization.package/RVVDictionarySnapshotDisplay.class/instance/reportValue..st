@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 reportValue: aDictionary
 
 	self data addLast: (self makeSnapshotOf: aDictionary).

@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 updateVisualization
 	
 	self data isEmpty

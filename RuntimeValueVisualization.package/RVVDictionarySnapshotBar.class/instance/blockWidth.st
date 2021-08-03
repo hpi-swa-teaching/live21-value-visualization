@@ -1,5 +1,5 @@
-accessing
-stepWidth
+geometry
+blockWidth
 
 	| count |
 	

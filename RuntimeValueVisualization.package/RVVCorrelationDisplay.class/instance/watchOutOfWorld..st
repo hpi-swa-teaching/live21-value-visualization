@@ -1,4 +1,4 @@
-accessing
+updating
 watchOutOfWorld: anRVVWatch
 
 	(self watches includesKey: anRVVWatch name) ifTrue: [

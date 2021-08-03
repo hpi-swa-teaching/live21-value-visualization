@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 makeSnapshotOf: anObject
 
 	anObject isPoint ifTrue: [^ anObject dist: 0@0].

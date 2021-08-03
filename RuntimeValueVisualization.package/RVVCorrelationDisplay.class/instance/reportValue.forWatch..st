@@ -1,4 +1,4 @@
-accessing
+updating
 reportValue: anObject forWatch: anRVVWatch
 
 	anRVVWatch isInWorld ifTrue: [
