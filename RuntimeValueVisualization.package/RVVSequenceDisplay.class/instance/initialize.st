@@ -3,5 +3,5 @@ initialize
 
 	super initialize.
 	
-	self display: StringMorph new;
+	self display: self constructDisplay;
 		addMorphBack: self display

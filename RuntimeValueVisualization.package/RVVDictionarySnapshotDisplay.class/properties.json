@@ -6,9 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"aggregations",
-		"displays" ],
-	"name" : "RVVAggregationDisplayMorph",
+		"snapshotSelected",
+		"currentSnapshot",
+		"maxSizes",
+		"colors",
+		"display" ],
+	"name" : "RVVDictionarySnapshotDisplay",
 	"pools" : [
 		 ],
 	"super" : "RVVVisualization",

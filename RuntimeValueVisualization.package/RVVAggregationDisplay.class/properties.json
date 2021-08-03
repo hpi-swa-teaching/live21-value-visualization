@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"display" ],
-	"name" : "RVVCurrentValueDisplay",
+		"aggregations",
+		"displays" ],
+	"name" : "RVVAggregationDisplay",
 	"pools" : [
 		 ],
 	"super" : "RVVVisualization",

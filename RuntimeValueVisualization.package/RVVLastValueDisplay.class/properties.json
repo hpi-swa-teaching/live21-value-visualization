@@ -6,12 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"snapshotSelected",
-		"currentSnapshot",
-		"maxSizes",
-		"colors",
 		"display" ],
-	"name" : "RVVDictionarySnapshotStateWatch",
+	"name" : "RVVLastValueDisplay",
 	"pools" : [
 		 ],
 	"super" : "RVVVisualization",

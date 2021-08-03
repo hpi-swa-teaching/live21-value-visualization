@@ -5,9 +5,10 @@
 		"openExample" : "lp 5/20/2021 16:28",
 		"visualizationName" : "lp 8/3/2021 17:25" },
 	"instance" : {
+		"constructDisplay" : "lp 8/3/2021 18:25",
 		"constructDisplayText" : "lp 5/14/2021 15:43",
 		"constructSequence" : "lp 5/14/2021 15:26",
 		"display" : "lp 5/14/2021 15:28",
 		"display:" : "lp 5/14/2021 15:28",
-		"initialize" : "lp 6/25/2021 12:08",
+		"initialize" : "lp 8/3/2021 18:21",
 		"updateVisualization" : "lp 5/14/2021 15:42" } }
