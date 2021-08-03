@@ -2,6 +2,7 @@ accessing
 switchToVisualization: anRVVVisualizationClass
 	
 	self removeMorph: self visualization;
+		extent: 120@60;
 		visualization: (anRVVVisualizationClass new
 			cycleSize: self cycleSize;
 			cyclic: self cyclic;
