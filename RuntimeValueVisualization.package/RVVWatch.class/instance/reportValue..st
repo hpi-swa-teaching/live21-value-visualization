@@ -1,4 +1,4 @@
-accessing
+updating
 reportValue: anObject
 	
 	self data addLast: anObject veryDeepCopy.

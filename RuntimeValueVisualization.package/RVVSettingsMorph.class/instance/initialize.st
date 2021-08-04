@@ -14,4 +14,3 @@ initialize
 		color: Color white;
 		cellGap: 4;
 		initializeChildren
-		

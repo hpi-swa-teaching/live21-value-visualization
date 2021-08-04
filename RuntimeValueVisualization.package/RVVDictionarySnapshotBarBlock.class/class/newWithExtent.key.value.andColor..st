@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 newWithExtent: extent key: key value: aCollection andColor: aColor
 
 	| block |

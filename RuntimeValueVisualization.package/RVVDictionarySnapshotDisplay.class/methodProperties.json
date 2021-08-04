@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"canHandle:" : "lp 8/4/2021 11:44",
+		"openExample" : "lp 8/4/2021 11:44",
+		"visualizationName" : "lp 8/4/2021 11:44" },
+	"instance" : {
+		"colors" : "lp 8/4/2021 11:38",
+		"colors:" : "lp 8/4/2021 11:38",
+		"currentSnapshot" : "lp 8/4/2021 11:38",
+		"currentSnapshot:" : "lp 8/4/2021 11:38",
+		"decrementBar" : "lp 8/4/2021 11:38",
+		"display" : "lp 8/4/2021 11:38",
+		"display:" : "lp 8/4/2021 11:38",
+		"handlesMouseWheel:" : "lp 8/4/2021 11:38",
+		"incrementBar" : "lp 8/4/2021 11:38",
+		"initialize" : "lp 8/4/2021 11:38",
+		"initializeChildren" : "lp 8/3/2021 19:04",
+		"makeSnapshotOf:" : "lp 8/4/2021 11:39",
+		"maxSizes" : "lp 8/4/2021 11:39",
+		"maxSizes:" : "lp 8/4/2021 11:39",
+		"mouseWheel:" : "lp 8/4/2021 11:39",
+		"reportValue:" : "lp 8/4/2021 11:39",
+		"snapshotSelected" : "lp 8/4/2021 11:39",
+		"snapshotSelected:" : "lp 8/4/2021 11:39",
+		"testForAndRemoveOverflowData" : "lp 8/4/2021 11:39",
+		"updateColorsWithKeys:" : "lp 8/4/2021 11:39",
+		"updateMaxSizesWithSizes:" : "lp 8/4/2021 11:39",
+		"updateVisualization" : "lp 8/4/2021 11:39" } }

@@ -1,4 +1,4 @@
-accessing
+initialization
 createLineChartFor: anRVVWatch
 
 	| data |

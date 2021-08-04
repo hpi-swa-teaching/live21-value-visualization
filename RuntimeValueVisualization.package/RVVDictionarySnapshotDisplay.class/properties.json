@@ -1,0 +1,18 @@
+{
+	"category" : "RuntimeValueVisualization-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"snapshotSelected",
+		"currentSnapshot",
+		"maxSizes",
+		"colors",
+		"display" ],
+	"name" : "RVVDictionarySnapshotDisplay",
+	"pools" : [
+		 ],
+	"super" : "RVVVisualization",
+	"type" : "normal" }

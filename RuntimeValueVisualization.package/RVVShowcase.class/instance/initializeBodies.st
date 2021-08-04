@@ -1,4 +1,4 @@
-accessing
+initialization
 initializeBodies
 
 	self bodies: (self dataBodies collect: [:body | self createRepresentationOf: body]).

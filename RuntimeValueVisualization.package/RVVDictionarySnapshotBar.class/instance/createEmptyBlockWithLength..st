@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 createEmptyBlockWithLength: length
 
 	^ RectangleMorph new

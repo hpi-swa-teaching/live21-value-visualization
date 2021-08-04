@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 testForAndRemoveOverflowData
 	
 	(self cyclic and: self data size > self cycleSize) 

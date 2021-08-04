@@ -1,19 +1,18 @@
 {
 	"class" : {
-		"default" : "lp 7/10/2021 14:19",
-		"open" : "lp 7/10/2021 14:20",
-		"reportValue:forWatch:" : "lp 7/10/2021 16:47",
-		"resetDefault" : "lp 7/10/2021 14:19",
-		"valueReportedFrom:" : "lp 7/10/2021 16:37",
-		"watchOutOfWorld:" : "lp 7/10/2021 20:03" },
+		"default" : "lp 8/4/2021 11:42",
+		"open" : "lp 8/4/2021 11:42",
+		"reportValue:forWatch:" : "lp 8/4/2021 11:42",
+		"resetDefault" : "lp 8/4/2021 11:42",
+		"watchOutOfWorld:" : "lp 8/4/2021 11:42" },
 	"instance" : {
 		"createLineChartFor:" : "lp 7/10/2021 16:57",
-		"displays" : "lp 7/10/2021 16:43",
-		"displays:" : "lp 7/10/2021 16:44",
-		"handlesMouseDown:" : "lp 8/3/2021 16:22",
-		"initialize" : "lp 8/3/2021 16:21",
-		"mouseDown:" : "lp 8/3/2021 16:38",
-		"reportValue:forWatch:" : "lp 8/3/2021 16:20",
-		"watchOutOfWorld:" : "lp 8/3/2021 16:21",
-		"watches" : "lp 8/3/2021 16:15",
-		"watches:" : "lp 8/3/2021 16:21" } }
+		"displays" : "lp 8/4/2021 11:30",
+		"displays:" : "lp 8/4/2021 11:30",
+		"handlesMouseDown:" : "lp 8/4/2021 11:30",
+		"initialize" : "lp 8/4/2021 11:30",
+		"mouseDown:" : "lp 8/4/2021 11:30",
+		"reportValue:forWatch:" : "lp 8/4/2021 11:30",
+		"watchOutOfWorld:" : "lp 8/4/2021 11:30",
+		"watches" : "lp 8/4/2021 11:30",
+		"watches:" : "lp 8/4/2021 11:30" } }

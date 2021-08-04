@@ -1,4 +1,4 @@
-as yet unclassified
+examples
 openExample
 
 	| settingsMorph sparkLine |

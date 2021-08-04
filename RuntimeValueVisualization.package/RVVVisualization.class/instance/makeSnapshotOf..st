@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 makeSnapshotOf: anObject
 
 	^ anObject copy

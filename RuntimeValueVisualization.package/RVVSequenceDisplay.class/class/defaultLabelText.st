@@ -1,0 +1,4 @@
+defaults
+defaultLabelText
+
+	^ 'Input sequences:'

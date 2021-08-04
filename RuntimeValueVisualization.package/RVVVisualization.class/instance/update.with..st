@@ -1,4 +1,4 @@
-as yet unclassified
+updating
 update: anAspect with: aValue
 
 	(anAspect = #cyclic) ifTrue: [
@@ -13,4 +13,4 @@ update: anAspect with: aValue
 
 	(anAspect = #labeled) ifTrue: [
 		self labeled: aValue;
-			updateLabel].
+			updateLabel]

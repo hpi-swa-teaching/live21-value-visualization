@@ -1,4 +1,4 @@
-as yet unclassified
+utilities
 createLabel: aString withExtent: aPoint
 
 	^ StringMorph new

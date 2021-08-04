@@ -1,16 +1,17 @@
 {
 	"class" : {
-		"canHandle:" : "lp 7/7/2021 12:45",
-		"defaultLabelText" : "lp 5/14/2021 12:01",
-		"fillColor" : "lp 7/9/2021 13:24",
-		"lineColor" : "lp 5/6/2021 11:40",
-		"lineWidth" : "lp 7/9/2021 13:43",
-		"openExample" : "lp 6/25/2021 12:30" },
+		"canHandle:" : "lp 8/4/2021 11:45",
+		"defaultLabelText" : "lp 8/4/2021 11:45",
+		"fillColor" : "lp 8/4/2021 11:45",
+		"lineColor" : "lp 8/4/2021 11:45",
+		"lineWidth" : "lp 8/4/2021 11:45",
+		"openExample" : "lp 8/4/2021 11:45",
+		"visualizationName" : "lp 8/4/2021 11:45" },
 	"instance" : {
-		"createGraph" : "lp 7/10/2021 16:30",
-		"createSegmentPoints" : "lp 7/9/2021 13:25",
-		"getYCoordinateFor:" : "lp 5/20/2021 16:36",
-		"makeSnapshotOf:" : "lp 6/25/2021 12:44",
-		"segmentHeightMultiplier" : "lp 5/20/2021 16:33",
-		"segmentWidth" : "lp 5/5/2021 21:38",
-		"updateVisualization" : "lp 7/1/2021 16:46" } }
+		"createGraph" : "lp 8/4/2021 11:40",
+		"createSegmentPoints" : "lp 8/4/2021 11:40",
+		"getYCoordinateFor:" : "lp 8/4/2021 11:40",
+		"makeSnapshotOf:" : "lp 8/4/2021 11:40",
+		"segmentHeightMultiplier" : "lp 8/4/2021 11:40",
+		"segmentWidth" : "lp 8/4/2021 11:41",
+		"updateVisualization" : "lp 8/4/2021 11:41" } }

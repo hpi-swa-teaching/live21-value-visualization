@@ -1,4 +1,4 @@
-accessing
+updating
 update: anAspect with: aValue
 
 	(anAspect = #cyclic) ifTrue: [self cyclic: aValue].

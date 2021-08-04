@@ -1,4 +1,4 @@
-accessing
+initialization
 initialize
 
 	super initialize.
@@ -7,4 +7,4 @@ initialize
 		listDirection: #leftToRight;
 		cellPositioning: #center;
 		cellGap: 0;
-		borderWidth: 0.
+		borderWidth: 0

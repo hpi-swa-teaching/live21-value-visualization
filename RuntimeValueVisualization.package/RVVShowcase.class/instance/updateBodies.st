@@ -1,4 +1,4 @@
-accessing
+updating
 updateBodies
 
 	(self bodies at: 1) position: (self bodyPositionFor: (self dataBodies at: 1)).

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"canHandle:" : "lp 8/4/2021 11:45",
+		"defaultLabelText" : "lp 8/4/2021 11:45",
+		"openExample" : "lp 8/4/2021 11:46",
+		"visualizationName" : "lp 8/4/2021 11:46" },
+	"instance" : {
+		"constructDisplayText" : "lp 8/4/2021 11:41",
+		"constructSequence" : "lp 8/4/2021 11:42",
+		"display" : "lp 8/4/2021 11:42",
+		"display:" : "lp 8/4/2021 11:42",
+		"initialize" : "lp 8/4/2021 11:42",
+		"updateVisualization" : "lp 8/4/2021 11:42" } }

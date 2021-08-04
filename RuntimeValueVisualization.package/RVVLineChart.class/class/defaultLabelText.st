@@ -1,4 +1,4 @@
-as yet unclassified
+defaults
 defaultLabelText
 
 	^ 'Course of values:'

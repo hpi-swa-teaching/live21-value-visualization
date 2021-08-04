@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"canHandle:" : "lp 8/4/2021 11:44",
+		"defaultAggregations" : "lp 8/4/2021 11:44",
+		"defaultLabelText" : "lp 8/4/2021 11:44",
+		"openExample" : "lp 8/4/2021 11:44",
+		"visualizationName" : "lp 8/4/2021 11:44" },
+	"instance" : {
+		"aggregations" : "lp 8/4/2021 11:37",
+		"aggregations:" : "lp 8/4/2021 11:37",
+		"displays" : "lp 8/4/2021 11:37",
+		"displays:" : "lp 8/4/2021 11:38",
+		"initialize" : "lp 8/4/2021 11:38",
+		"makeSnapshotOf:" : "lp 8/4/2021 11:38",
+		"updateVisualization" : "lp 8/4/2021 11:38" } }
