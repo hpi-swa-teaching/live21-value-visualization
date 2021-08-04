@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfRuntimeValueVisualization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfRuntimeValueVisualization",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
