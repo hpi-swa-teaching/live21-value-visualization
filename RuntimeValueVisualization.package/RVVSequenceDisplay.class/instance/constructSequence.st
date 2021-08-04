@@ -18,11 +18,8 @@ constructSequence
 				ifFalse: [
 					sequence addLast: {currentValue . currentCount}.
 					currentValue := element.
-					currentCount := 1.
-				]
-		].
+					currentCount := 1]].
 	
-		sequence addLast: {currentValue . currentCount}.
-	].
+		sequence addLast: {currentValue . currentCount}].
 
 	^ sequence

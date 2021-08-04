@@ -13,4 +13,4 @@ update: anAspect with: aValue
 
 	(anAspect = #labeled) ifTrue: [
 		self labeled: aValue;
-			updateLabel].
+			updateLabel]

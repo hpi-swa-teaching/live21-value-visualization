@@ -25,4 +25,4 @@ openExample
 	example reportValue: dict.
 	
 	(dict at: 'ToolBuilder') add: 33.
-	example reportValue: dict.
+	example reportValue: dict

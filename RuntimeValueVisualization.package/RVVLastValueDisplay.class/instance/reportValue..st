@@ -1,4 +1,4 @@
 updating
 reportValue: anObject
 
-	self display contents: anObject asString
+	self display contents: 'Last value: ', anObject asString

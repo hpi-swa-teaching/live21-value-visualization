@@ -1,13 +1,13 @@
 {
 	"class" : {
-		"canHandle:" : "lp 7/7/2021 12:45",
-		"defaultLabelText" : "lp 5/14/2021 14:16",
-		"openExample" : "lp 5/20/2021 16:28",
-		"visualizationName" : "lp 8/3/2021 17:25" },
+		"canHandle:" : "lp 8/4/2021 11:45",
+		"defaultLabelText" : "lp 8/4/2021 11:45",
+		"openExample" : "lp 8/4/2021 11:46",
+		"visualizationName" : "lp 8/4/2021 11:46" },
 	"instance" : {
-		"constructDisplayText" : "lp 5/14/2021 15:43",
-		"constructSequence" : "lp 5/14/2021 15:26",
-		"display" : "lp 5/14/2021 15:28",
-		"display:" : "lp 5/14/2021 15:28",
-		"initialize" : "lp 8/3/2021 18:44",
-		"updateVisualization" : "lp 5/14/2021 15:42" } }
+		"constructDisplayText" : "lp 8/4/2021 11:41",
+		"constructSequence" : "lp 8/4/2021 11:42",
+		"display" : "lp 8/4/2021 11:42",
+		"display:" : "lp 8/4/2021 11:42",
+		"initialize" : "lp 8/4/2021 11:42",
+		"updateVisualization" : "lp 8/4/2021 11:42" } }

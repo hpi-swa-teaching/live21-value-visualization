@@ -9,6 +9,3 @@ reportValue: anObject forWatch: anRVVWatch
 				self displays at: anRVVWatch name put: (self createLineChartFor: anRVVWatch).
 				self addMorphBack: (self displays at: anRVVWatch name)].
 			(self displays at: anRVVWatch name) reportValue: anObject	]]
-	
-
-	
