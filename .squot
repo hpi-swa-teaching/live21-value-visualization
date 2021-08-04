@@ -1,3 +1,5 @@
 OrderedDictionary {
-	'RuntimeValueVisualization.package' : #SquotCypressCodeSerializer
+	'packages/RuntimeValueVisualization-Core.package' : #SquotCypressCodeSerializer,
+	'packages/RuntimeValueVisualization-Showcase.package' : #SquotCypressCodeSerializer,
+	'packages/RuntimeValueVisualization-Tools.package' : #SquotCypressCodeSerializer
 }

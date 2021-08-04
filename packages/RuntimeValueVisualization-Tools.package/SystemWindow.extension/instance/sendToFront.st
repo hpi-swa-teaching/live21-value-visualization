@@ -1,4 +1,4 @@
-*RuntimeValueVisualization
+*RuntimeValueVisualization-Tools
 sendToFront
 	"most of this is copied from SystemWindow>>sendToBack. Only where the window is added back is adapted."
 	| aWorld nextWindow |
