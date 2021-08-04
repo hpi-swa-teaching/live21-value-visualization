@@ -1,6 +1,6 @@
 # Runtime Value Visualizations
 
-A tool that provides visualizations for different data types in Squeak/Smalltalk. All visualizations are made to work in the context of a watch in a method. For further background information, please have a look at the [wiki](https://github.com/hpi-swa-teaching/live21-value-visualization/wiki).
+A set of tools to support programmers in gaining insights from runtime data of different data types in Squeak/Smalltalk by using visualizations. All visualizations are made to work in the context of a watch in a method. For further background information, please have a look at the [wiki](https://github.com/hpi-swa-teaching/live21-value-visualization/wiki).
 
 ## Installation (tbd)
 
