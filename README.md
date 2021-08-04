@@ -2,7 +2,34 @@
 
 A set of tools to support programmers in gaining insights from runtime data of different data types in Squeak/Smalltalk by using visualizations. All visualizations are made to work in the context of a watch in a method. For further background information, please have a look at the [wiki](https://github.com/hpi-swa-teaching/live21-value-visualization/wiki).
 
-## Installation (tbd)
+## Installation
+
+To install the basic visualizations and tools, open a workspace and run:
+
+```smalltalk
+Metacello new
+  baseline: 'RuntimeValueVisualization';
+  repository: 'github://hpi-swa-teaching/live21-value-visualization:master/packages';
+  load: #default.
+```
+
+If you want to have the showcase too, run instead
+
+```smalltalk
+Metacello new
+  baseline: 'RuntimeValueVisualization';
+  repository: 'github://hpi-swa-teaching/live21-value-visualization:master/packages';
+  load: #showcase.
+```
+
+If you only want the visualizations and not any of the tools, run
+
+```smalltalk
+Metacello new
+  baseline: 'RuntimeValueVisualization';
+  repository: 'github://hpi-swa-teaching/live21-value-visualization:master/packages';
+  load: #core.
+```
 
 ## Current State
 
