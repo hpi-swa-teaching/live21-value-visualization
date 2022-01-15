@@ -1,5 +1,6 @@
 SquotTrackedObjectMetadata {
 	#objectClassName : #PackageInfo,
+	#ignoredInstanceVariables : IdentityDictionary { },
 	#objectsReplacedByNames : true,
 	#serializer : #SquotCypressCodeSerializer
 }
