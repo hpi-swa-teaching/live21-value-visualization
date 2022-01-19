@@ -4,6 +4,7 @@
 		"defaultCyclic" : "lp 8/4/2021 11:43",
 		"defaultLabeled" : "lp 8/4/2021 11:43" },
 	"instance" : {
+		"allVisualizations" : "ct 1/15/2022 17:41",
 		"contextLabel" : "lp 8/4/2021 11:32",
 		"cycleSize" : "lp 8/4/2021 11:32",
 		"cycleSize:" : "lp 8/4/2021 11:32",
@@ -24,6 +25,6 @@
 		"switchToVisualization:" : "lp 7/14/2021 17:40",
 		"testForAndRemoveOverflowData" : "lp 8/4/2021 11:33",
 		"update:with:" : "lp 8/4/2021 11:33",
-		"usableVisualizations" : "lp 8/4/2021 11:33",
+		"usableVisualizations" : "ct 1/5/2022 14:48",
 		"visualization" : "lp 8/4/2021 11:33",
 		"visualization:" : "lp 8/4/2021 11:33" } }
